@@ -35,7 +35,7 @@
 1. При проведении обеих задач по статусам используйте kanban. 
 1. Верните задачи в статус Open.
 1. Перейдите в Scrum, запланируйте новый спринт, состоящий из задач эпика и одного бага, стартуйте спринт, проведите задачи до состояния Closed. Закройте спринт.
-2. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания. [bug](), [rest]()
+2. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания. [bug](https://github.com/EVolgina/jira/blob/main/Bug.xml), [rest]()
    ![1](https://github.com/EVolgina/jira/blob/main/create%20scrum.PNG)
    ![2](https://github.com/EVolgina/jira/blob/main/sprint%20close.PNG)
    ![3](https://github.com/EVolgina/jira/blob/main/report.PNG)
