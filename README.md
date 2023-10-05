@@ -38,4 +38,4 @@
 2. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания. [bug](), [rest]()
    ![1](https://github.com/EVolgina/jira/blob/main/create%20scrum.PNG)
    ![2](https://github.com/EVolgina/jira/blob/main/sprint%20close.PNG)
-   ![3]()
+   ![3](https://github.com/EVolgina/jira/blob/main/report.PNG)
