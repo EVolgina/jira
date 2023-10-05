@@ -26,7 +26,7 @@
 3. Done develop -> On test.
 4. On test -> On develop, Done.
 5. Done -> Closed, Open.
-![rest]()
+![rest](https://github.com/EVolgina/jira/blob/main/rest.xml)
 
 **Что нужно сделать**
 
