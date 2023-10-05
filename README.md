@@ -18,7 +18,7 @@
 7. Done -> Closed, Open.
 ![bug](https://github.com/EVolgina/jira/blob/main/bug%20shema.PNG)
 ![bug1](https://github.com/EVolgina/jira/blob/main/shema%20with%20met.PNG)
-![bug2]()
+![bug2](https://github.com/EVolgina/jira/blob/main/epik.PNG)
 Остальные задачи должны проходить по упрощённому workflow:
 
 1. Open -> On develop.
