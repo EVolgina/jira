@@ -17,6 +17,7 @@
 6. On test -> On fix, Done.
 7. Done -> Closed, Open.
 ![bug]()
+![bug]()
 ![bug1]()
 Остальные задачи должны проходить по упрощённому workflow:
 
