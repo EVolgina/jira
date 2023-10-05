@@ -17,7 +17,7 @@
 6. On test -> On fix, Done.
 7. Done -> Closed, Open.
 ![bug](https://github.com/EVolgina/jira/blob/main/bug%20shema.PNG)
-![bug]()
+![bug](https://github.com/EVolgina/jira/blob/main/shema%20with%20met.PNG)
 ![bug1]()
 Остальные задачи должны проходить по упрощённому workflow:
 
